@@ -13,8 +13,4 @@ Run `menu.py` and follow the on-screen prompts to select items from the menu and
 ## Contribution
 This project is open for contributions. Please ensure to follow the best practices for code style and commit messages.
 
-## License
-[MIT License](LICENSE)
 
-## Acknowledgements
-Special thanks to the Python community for valuable resources and support.
